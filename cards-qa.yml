@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "welcome to eazybank cards qa"
+  message: "welcome to eazybank cards quality assurance"
   contactDetails:
     name: sagar
     email: sagar@gmail.com
