@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "welcome to eazybank loans qa"
+  message: "welcome to eazybank loans quality assurance"
   contactDetails:
     name: sagar
     email: sagar@gmail.com
